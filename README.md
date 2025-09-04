@@ -1,5 +1,7 @@
 # Checkpoint 1 - C# (2° Semestre)
 
+### `Aluna: Camila do Prado Padalino - RM 98316`
+
 ## Processamento Assíncrono de Arquivos TXT
 
 ### ❔Descrição
